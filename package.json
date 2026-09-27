@@ -1,0 +1,13 @@
+{
+  "name": "server-status-hub",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Lightweight game server monitoring dashboard with TCP checks, latency and uptime history.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
