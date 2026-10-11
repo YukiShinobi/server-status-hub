@@ -65,3 +65,10 @@ Sometimes I do not need a full monitoring stack. I just need to know whether a g
 ---
 
 <div align="center"><sub>YukiShinobi // visibility before guesswork.</sub></div>
+
+
+## Scope and maintenance — October 2026
+
+A monitoring/probe tool. Treat displayed uptime as observed sample data, not a contractual service-level guarantee. Validate the target inventory and probe permissions.
+
+These repositories document individual experiments or products. A README describes the codebase but is not a claim of independently verified production availability. For current flagship work see [Project Creation](https://github.com/YukiShinobi/project-creation), [Veyra](https://github.com/YukiShinobi/YukiShinobi-veyra), and [Simply Management](https://github.com/YukiShinobi/SIMPLYMANAGEMENT-WEBSITE).
